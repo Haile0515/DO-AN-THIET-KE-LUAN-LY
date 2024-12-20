@@ -1,0 +1,2 @@
+dht.c:13:19:DHT20_Init	24	static
+dht.c:25:19:DHT20_ReadData	48	static

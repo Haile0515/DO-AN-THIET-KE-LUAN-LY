@@ -1,0 +1,3 @@
+led_rgb.c:11:6:WS2812_SetColor	32	static
+led_rgb.c:30:6:WS2812_Send	8	static
+led_rgb.c:38:6:Led_RGB_temp	8	static
