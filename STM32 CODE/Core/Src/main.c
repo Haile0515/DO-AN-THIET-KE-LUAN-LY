@@ -125,7 +125,6 @@ int main(void)
 		  fsm_run();
 		  setTimer0(1000);
 	  }
-//	  SCH_Dispatch();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

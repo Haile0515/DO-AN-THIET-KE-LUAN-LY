@@ -52,7 +52,6 @@ void fsm_run() {
 				new_humd = dht20_sensor.Humidity;
 			}
 
-			Led_RGB_temp();
 
 			status = CONVERT;
 			break;

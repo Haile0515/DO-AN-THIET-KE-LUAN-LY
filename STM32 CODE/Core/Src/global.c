@@ -14,7 +14,6 @@ char humd[16];
 char BufferToESP32[40];
 
 State status = INIT;
-uint16_t pwm_data[NUM_LEDS * 24 + 50];
 
 float new_temp = 0.0; //biến lưu giá trị
 float new_humd = 0.0;
